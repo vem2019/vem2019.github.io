@@ -132,3 +132,7 @@ div.progress-bar-none {
     border-bottom: none;
   }
 }
+
+.img-text{
+  margin-right: 10px;
+}
